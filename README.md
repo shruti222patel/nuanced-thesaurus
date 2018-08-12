@@ -1,4 +1,4 @@
-# nuanced-words
+# nuanced-thesaurus
 
 Thesaurauses provide a collection of similarly defined words, but they don't explain what differentiates them and when to use one vs. another. This repo collects sets of synonyms and elucidate their subtle differences in meaning.
 
